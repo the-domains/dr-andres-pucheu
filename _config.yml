@@ -1,28 +1,40 @@
-name: Dr. Andres Pucheu
+layout_spectrum: 0.4679595
 favicon: null
-layout_spectrum: 0.8193802812602371
-typography_spectrum: 0.348441552137956
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: Dr. Andres Pucheu
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.4985326009336859
+  saturation: 0.3501595030538738
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.4985326009336859
-  lightness: 0.40961061511188745
-  saturation: 0.3501595030538738
+  lightness: 0.4096106151118875
   rhythmicContrast: 0.4739013104699552
-purpose: []
+typography_spectrum: 0.3634064
