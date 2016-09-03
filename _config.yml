@@ -24,6 +24,10 @@ cta:
   version: null
   bucket: null
   domain: null
+navigation:
+  - name: LinkedIn
+    url: 'https://cl.linkedin.com/in/andrés-pucheu-a984ba6'
+    type: external
 favicon: null
 collections:
   - index:
