@@ -1,15 +1,30 @@
-layout_spectrum: 0.4679595
-favicon: null
-name: Dr. Andres Pucheu
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+typography_spectrum: 0.3634064
+color:
+  brandStrength: 0.4985326009336859
+  saturation: 0.3501595030538738
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  lightness: 0.4096106151118875
+  rhythmicContrast: 0.4739013104699552
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4679595
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Dr. Andres Pucheu
+cta:
+  version: null
+  bucket: null
+  domain: null
+favicon: null
 collections:
   - index:
       navigable: true
@@ -22,19 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  version: null
-  bucket: null
-  domain: null
-color:
-  brandStrength: 0.4985326009336859
-  saturation: 0.3501595030538738
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  lightness: 0.4096106151118875
-  rhythmicContrast: 0.4739013104699552
-typography_spectrum: 0.3634064
+title: ' Organizational Effectiveness'
+purpose: []
